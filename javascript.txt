@@ -1,0 +1,4 @@
+<p><input type="button" value="White Background" id="whiteButton"></p>
+<p><input type="button" value="Black Background" id="blackButton"></p>
+<p><input type="button" value="Alert" id="alertButton"></p>
+<p><input type="button" value="Prompting" id="promptingButton"></p>

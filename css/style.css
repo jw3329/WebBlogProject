@@ -1,0 +1,18 @@
+.blog-header {
+  border-bottom: 1px solid gray;
+}
+
+a:hover {
+  text-decoration: none;
+}
+nav {
+  text-align: center;
+}
+
+.row {
+  padding: 20px;
+}
+
+.sign {
+  text-alig: center;
+}
